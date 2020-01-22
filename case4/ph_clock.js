@@ -5,8 +5,8 @@
    Case Problem 4
 
    Countdown Clock for Ticket Ordering
-   Author: 
-   Date:  
+   Author: Kevin Ramirez
+   Date:  1-21-20
 
    Filename:   ph_clock.js     
 
@@ -17,7 +17,7 @@
 
 
 
-/* ------------------------------------------------- */
+/* Steps 1-20 */
 
 
 /* The checkTimer() function tests whether there is any time left to make the
