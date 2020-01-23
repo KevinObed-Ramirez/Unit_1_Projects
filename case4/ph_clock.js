@@ -16,6 +16,7 @@
 
 /* Steps 1-20 */
 //Adding Variables for time 
+
 var minsLeft = 30;
 var secLeft = 0;
 var  timeLeft = (minsLeft * 60) + secLeft;
@@ -24,6 +25,7 @@ var  timeLeft = (minsLeft * 60) + secLeft;
 var clockID = setInterval("countdown()",1000);
 
 //Function to run the clock
+
 function countdown(){
     minsLeft = Math.floor(timeLeft / 60);
     secLeft = timeLeft - (60 * minsLeft);
